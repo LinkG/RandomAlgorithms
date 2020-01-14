@@ -1,6 +1,5 @@
 #ifndef OHP
 #define OHP
-#include <iostream>
 
 template <typename T>
 class sortArray {
