@@ -6,7 +6,6 @@
             "command": "/usr/bin/g++",
             "args": [
                 "-g",
-                "${fileDirname}/sortArray.H",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}"
